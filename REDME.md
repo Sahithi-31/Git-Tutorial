@@ -1,2 +1,2 @@
 # Git Tutorial
-# Git tutroial details are here
+Git tutroial details are here
